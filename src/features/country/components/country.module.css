@@ -1,0 +1,14 @@
+.select {
+  margin-top: 1rem;
+  width: 300px;
+}
+
+.card {
+  margin-top: 6rem;
+  width: 540px;
+  min-height: 300px;
+}
+
+.flag {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
