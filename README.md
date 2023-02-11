@@ -31,7 +31,7 @@ npm install
 - Start the production server:
 
 ```bash
-npm run start:prod
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to start using the application
