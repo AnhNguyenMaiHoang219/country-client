@@ -5,6 +5,7 @@ A [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](h
 ## Prerequisites
 
 - [Node.js 16.8](https://nodejs.org/en/) or later
+- [Git](https://git-scm.com/downloads/)
 - [Country service](https://github.com/AnhNguyenMaiHoang219/country-service) is up and running
 
 ## Country service
@@ -16,15 +17,20 @@ Please follow this [Country service's README.md](https://github.com/AnhNguyenMai
 ## Installation instruction
 
 - Clone this repository.
+
+```bash
+git clone https://github.com/AnhNguyenMaiHoang219/country-client.git
+```
+
 - Go to the project.
 
-```
+```bash
 cd country-client
 ```
 
 - Install dependencies
 
-```
+```bash
 npm install
 ```
 
