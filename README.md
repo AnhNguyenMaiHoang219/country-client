@@ -5,7 +5,7 @@ A [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](h
 ## Prerequisites
 
 - [Node.js 16.8](https://nodejs.org/en/) or later
-- [Country service](https://github.com/AnhNguyenMaiHoang219/country-service)
+- [Country service](https://github.com/AnhNguyenMaiHoang219/country-service) is up and running
 
 ## Country service
 
@@ -34,4 +34,4 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to start using the application
+Open http://localhost:3000 with your browser to start using the application
