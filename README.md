@@ -34,7 +34,7 @@ cd country-client
 npm install
 ```
 
-- Start the production server:
+- Start the application server:
 
 ```bash
 npm run dev
